@@ -1,0 +1,6 @@
+<application>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="allowToCompleteWithWhitespace" value="false" />
+    <option name="hasNotifiedAboutCompletingWithSpace" value="true" />
+  </component>
+</application>
