@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/ben/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.0-preview.7/lib/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll" /&gt;
+  &lt;Assembly Path="/Users/ben/.nuget/packages/npgsql/7.0.0-preview.7/lib/net6.0/Npgsql.dll" /&gt;
+  &lt;Assembly Path="/usr/local/share/dotnet/packs/Microsoft.AspNetCore.App.Ref/6.0.8/ref/net6.0/Microsoft.Extensions.Configuration.Json.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
