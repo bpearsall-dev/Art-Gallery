@@ -8,246 +8,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="756cbe53-16f0-40fc-afe6-8d4a828fa9b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Art Gallery/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Art Gallery/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Art Gallery/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Art Gallery/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication/BasicAuthenticationHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTemplates/CSharpDbContext/DbContext.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTemplates/CSharpDbContext/Partials/DbConstructor.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTemplates/CSharpDbContext/Partials/DbImports.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTemplates/CSharpDbContext/Partials/DbOnConfiguring.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTemplates/CSharpDbContext/Partials/DbSets.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTemplates/CSharpEntityType/Class.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTemplates/CSharpEntityType/Partials/Constructor.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTemplates/CSharpEntityType/Partials/Imports.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTemplates/CSharpEntityType/Partials/Properties.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/ArtStyle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/ArtistController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/ArtworkController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/UserController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/ArtStyle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Artist.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Artwork.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/LoginModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/UserModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/ArtStylesEF.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/ArtistsEF.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/ArtworkEF.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/GalleryContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/UserEF.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScaffoldingDesignTimeServices.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/CSharpDbContext/DbContext.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/CSharpDbContext/Partials/DbConstructor.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/CSharpDbContext/Partials/DbImports.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/CSharpDbContext/Partials/DbOnConfiguring.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/CSharpDbContext/Partials/DbSets.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/CSharpEntityType/Class.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/CSharpEntityType/Partials/Constructor.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/CSharpEntityType/Partials/Imports.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/CSharpEntityType/Partials/Properties.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/TypeScriptDbContext/DbContext.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/TypeScriptDbContext/Partials/DbConstructor.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/TypeScriptDbContext/Partials/DbImports.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/TypeScriptDbContext/Partials/DbOnConfiguring.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/TypeScriptDbContext/Partials/DbSets.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/TypeScriptEntityType/Class.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/TypeScriptEntityType/Partials/Constructor.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/TypeScriptEntityType/Partials/Imports.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/CodeTemplates/TypeScriptEntityType/Partials/Properties.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/EntityFrameworkCore.Scaffolding.Handlebars.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Handlebars.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/JetBrains.Annotations.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Microsoft.Identity.Client.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/System.Security.Permissions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/System.Windows.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/.idea/.idea.WHICS/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/.idea/.idea.WHICS/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/.idea/.idea.WHICS/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/.idea/.idea.WHICS/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/hicaps.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/index.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/Debug/net5.0/WHICS.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/Debug/net5.0/WHICS.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/Debug/net5.0/WHICS.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/Debug/net5.0/WHICS.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/Debug/net5.0/WHICS.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/WHICS.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/WHICS.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/WHICS.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WHICS/WHICS/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.debris/tmp/lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Icon&#10;" beforeDir="false" />
+    <list default="true" id="756cbe53-16f0-40fc-afe6-8d4a828fa9b5" name="Changes" comment="ok">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Art Gallery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Art Gallery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend-Dev" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend-Dev" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/.idea/.idea.Polynomial/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/.idea/.idea.Polynomial/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/.idea/.idea.Polynomial/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/.idea/.idea.Polynomial/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/Polynomial.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/Test.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/bin/Debug/net5.0/Polynomial.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/bin/Debug/net5.0/Polynomial.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/bin/Debug/net5.0/Polynomial.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/bin/Debug/net5.0/Polynomial.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/bin/Debug/net5.0/Polynomial.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/bin/Debug/net5.0/ref/Polynomial.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/Polynomial.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/Polynomial.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/Polynomial.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/Polynomial.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/Polynomial.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/Polynomial.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/Polynomial.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/Polynomial.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/Polynomial.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/Polynomial.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Debug/net5.0/ref/Polynomial.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Polynomial.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Polynomial.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/Polynomial.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polynomial/Polynomial/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/.idea/.idea.Reaction_Timer/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/.idea/.idea.Reaction_Timer/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/.idea/.idea.Reaction_Timer/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/.idea/.idea.Reaction_Timer/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/Controller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/IGui.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/Random.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/ReactionMachine.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/Reaction_Timer.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/SimpleReactionController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/bin/Debug/net5.0/Reaction_Timer.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/bin/Debug/net5.0/Reaction_Timer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/bin/Debug/net5.0/Reaction_Timer.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/bin/Debug/net5.0/Reaction_Timer.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/bin/Debug/net5.0/Reaction_Timer.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/bin/Debug/net5.0/ref/Reaction_Timer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/Reaction_Timer.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/Reaction_Timer.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/Reaction_Timer.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/Reaction_Timer.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/Reaction_Timer.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/Reaction_Timer.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/Reaction_Timer.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/Reaction_Timer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/Reaction_Timer.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/Reaction_Timer.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Debug/net5.0/ref/Reaction_Timer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Reaction_Timer.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Reaction_Timer.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/Reaction_Timer.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reaction_Timer/Reaction_Timer/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/.idea/.idea.SimpleReactionMachineTester/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/.idea/.idea.SimpleReactionMachineTester/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/.idea/.idea.SimpleReactionMachineTester/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/IController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/IGui.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/IRandom.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/ReactionMachine.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/SimpleReactionController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/SimpleReactionMachineTester.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/Tester.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/bin/Debug/net5.0/SimpleReactionMachineTester.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/bin/Debug/net5.0/SimpleReactionMachineTester.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/bin/Debug/net5.0/SimpleReactionMachineTester.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/bin/Debug/net5.0/SimpleReactionMachineTester.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/bin/Debug/net5.0/SimpleReactionMachineTester.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/bin/Debug/net5.0/ref/SimpleReactionMachineTester.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/SimpleReactionMachineTester.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/SimpleReactionMachineTester.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/SimpleReactionMachineTester.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/SimpleReactionMachineTester.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/SimpleReactionMachineTester.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/SimpleReactionMachineTester.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/SimpleReactionMachineTester.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/SimpleReactionMachineTester.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/SimpleReactionMachineTester.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/SimpleReactionMachineTester.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/Debug/net5.0/ref/SimpleReactionMachineTester.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/SimpleReactionMachineTester.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/SimpleReactionMachineTester.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/SimpleReactionMachineTester.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimpleReactionMachineTester/SimpleReactionMachineTester/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/.idea/.idea.Task 8_1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/.idea/.idea.Task 8_1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/.idea/.idea.Task 8_1/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/.idea/.idea.Task 8_1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/Account.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/Lecture 10. Demo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/MyStack.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/Task 8_1.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/Tester.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/bin/Debug/net5.0/Task 8_1.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/bin/Debug/net5.0/Task 8_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/bin/Debug/net5.0/Task 8_1.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/bin/Debug/net5.0/Task 8_1.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/bin/Debug/net5.0/Task 8_1.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/bin/Debug/net5.0/ref/Task 8_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/Task 8_1.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/Task 8_1.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/Task 8_1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/Task 8_1.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/Task 8_1.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/Task 8_1.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/Task 8_1.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/Task 8_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/Task 8_1.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/Task 8_1.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Debug/net5.0/ref/Task 8_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Task 8_1.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Task 8_1.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/Task 8_1.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8_1/Task 8_1/obj/rider.project.restore.info" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -331,7 +95,23 @@
       <workItem from="1665109876286" duration="1939000" />
       <workItem from="1665112901913" duration="1342000" />
       <workItem from="1665115153899" duration="68069000" />
+      <workItem from="1665653282019" duration="989000" />
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1665653405820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665653405820</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ok">
+      <created>1665653564091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665653564091</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,5 +133,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>
