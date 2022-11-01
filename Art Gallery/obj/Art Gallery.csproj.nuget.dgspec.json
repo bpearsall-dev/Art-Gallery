@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ben/Documents/Rider/Art Gallery/Art Gallery.csproj": {}
+    "/Users/ben/Documents/Rider/Art-Gallery/Art Gallery/Art Gallery.csproj": {}
   },
   "projects": {
-    "/Users/ben/Documents/Rider/Art Gallery/Art Gallery.csproj": {
+    "/Users/ben/Documents/Rider/Art-Gallery/Art Gallery/Art Gallery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ben/Documents/Rider/Art Gallery/Art Gallery.csproj",
+        "projectUniqueName": "/Users/ben/Documents/Rider/Art-Gallery/Art Gallery/Art Gallery.csproj",
         "projectName": "Art Gallery",
-        "projectPath": "/Users/ben/Documents/Rider/Art Gallery/Art Gallery.csproj",
+        "projectPath": "/Users/ben/Documents/Rider/Art-Gallery/Art Gallery/Art Gallery.csproj",
         "packagesPath": "/Users/ben/.nuget/packages/",
-        "outputPath": "/Users/ben/Documents/Rider/Art Gallery/obj/",
+        "outputPath": "/Users/ben/Documents/Rider/Art-Gallery/Art Gallery/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ben/.nuget/NuGet/NuGet.Config"
