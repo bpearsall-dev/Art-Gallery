@@ -8,10 +8,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="756cbe53-16f0-40fc-afe6-8d4a828fa9b5" name="Changes" comment="ok">
+    <list default="true" id="756cbe53-16f0-40fc-afe6-8d4a828fa9b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Art-Gallery" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backend-Dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Art Gallery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Art Gallery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend-Dev" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend-Dev" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authentication/BasicAuthenticationHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Authentication/BasicAuthenticationHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/ArtworkEF.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/ArtworkEF.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Art Gallery.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Art Gallery.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Art Gallery.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Art Gallery.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Art Gallery.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Art Gallery.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Art Gallery.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Art Gallery.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Art Gallery.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Art Gallery.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Art Gallery.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Art Gallery.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DontShowAgainFeedbackService.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectCreationInfoService.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RiderPerAppSettingsManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_mac/keymap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advancedSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeLens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codestyles/Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../colors.scheme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../databaseDrivers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../debugger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diff.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor-font.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor.codeinsight.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../filetypes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ide.general.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project.default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ui.lnf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +128,12 @@
       <workItem from="1665109876286" duration="1939000" />
       <workItem from="1665112901913" duration="1342000" />
       <workItem from="1665115153899" duration="68069000" />
-      <workItem from="1665653282019" duration="989000" />
+      <workItem from="1665653282019" duration="1618000" />
+      <workItem from="1665655389307" duration="122000" />
+      <workItem from="1665787444289" duration="2475000" />
+      <workItem from="1665972515375" duration="1942000" />
+      <workItem from="1665986488905" duration="1143000" />
+      <workItem from="1667267121912" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1665653405820</created>

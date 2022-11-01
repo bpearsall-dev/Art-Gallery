@@ -55,9 +55,9 @@ public class BasicAuthenticationHandler: AuthenticationHandler<AuthenticationSch
             }
             
             
-            //user.Email = email;
+            
             var hasher = new PasswordHasher<User>();
-            //user.PasswordHash = hasher.HashPassword(user, password);
+           
             
             
             var pwVerificationResult = hasher.VerifyHashedPassword(user,user.PasswordHash, password);

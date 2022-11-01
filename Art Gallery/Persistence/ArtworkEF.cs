@@ -34,6 +34,7 @@ public class ArtworkEF : IArtworkEF
         
         newArtwork.CreatedDate = DateTime.Now;
         newArtwork.ModifiedDate = DateTime.Now;
+        newArtwork.Artist = _context.Artists.First(e => e.ArtistId == newArtwork.ArtistId);
         _context.Artworks.Add(newArtwork);
         _context.SaveChanges();
        
